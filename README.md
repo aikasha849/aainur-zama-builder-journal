@@ -1,8 +1,14 @@
 # 🎬 ZAMA Builder Flow — Livestream Journal by Ainur
 
+
 This repository documents my journey as a media producer and creator during Zama Creator Week.  
 It includes livestream setup, narration scripts, OBS audio configuration, and visuals used to present FHE and Zama Protocol.
+## 📡 Livestream Location
 
+The livestream will take place on **Twitter (X)** using Media Studio.  
+📅 Broadcast date: **July 23 at 15:00 (GMT+2)**  
+🔗 The link to the stream will be posted on the author's Twitter profile:  
+[@aainur_builder](https://twitter.com/aainur_builder)
 ---
 
 ## 📁 Structure
