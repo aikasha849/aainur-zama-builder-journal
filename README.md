@@ -21,6 +21,8 @@ It includes livestream setup, narration scripts, OBS audio configuration, and vi
 
 - `demo-notes.md`  
   Builder Demo description and narration text used in stream
+- `obs-visuals/index.md` — List of banners and visuals used across OBS scenes
+- `demo-notes/index.md` — Overview of narration scripts and demo structure
 
 ---
 
