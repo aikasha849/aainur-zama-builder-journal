@@ -8,9 +8,8 @@ It includes livestream setup, narration scripts, OBS audio configuration, and vi
 The livestream will take place on **Twitter (X)** using Media Studio.  
 📅 Broadcast date: **July 23 at 15:00 (GMT+2)**  
 🔗 The link to the stream will be posted on the author's Twitter profile:  
-[@aainur_builder](https://twitter.com/aainur_builder)
+[@InurSolar91279](https://x.com/InurSolar91279)
 ---
-
 ## 📁 Structure
 
 - `obs-visuals/`  
