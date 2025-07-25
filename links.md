@@ -11,6 +11,10 @@
 - [Live Stream Post](https://x.com/InurSolar91279/status/1948018407481217297)  
 - [Post-Stream Materials](https://x.com/InurSolar91279/status/1948313902061658359)
 
-## 🖼 Covers  
-- [`assets/covers/discord-builder-flow.jpeg`](assets/covers/discord-builder-flow.jpeg) — Discord Invitation Cover  
-- [`assets/covers/zama-fhe-airdrop.jpeg`](assets/covers/zama-fhe-airdrop.jpeg) — YouTube Video Cover
+## 🖼 Covers
+
+### 🎟 Discord Invitation Cover  
+![Discord Cover](https://github.com/aainur/aainur-zama-builder-journal/blob/main/assets/covers/discord-builder-flow.jpeg?raw=true)
+
+### 📺 YouTube Video Cover  
+![Zama Cover](https://github.com/aainur/aainur-zama-builder-journal/blob/main/assets/covers/zama-fhe-airdrop.jpeg?raw=true)
