@@ -18,7 +18,7 @@ Venue: Twitter/X Media Studio via OBS
 **📝 Episode summary:**  
 This inaugural livestream introduced the Zama Protocol through a Web3 lens. We explored the revolutionary potential of Fully Homomorphic Encryption (FHE), its use cases, and its unique value in privacy-preserving DeFi platforms. The stream dove into Zama's Testnet, highlighting technical insights and onboarding experience. Ainur reflected on the “energy of Web3” — the mindset, momentum, and builder spirit behind open crypto ecosystems.
 
-🎨 Banner Titles:
+🎨 Presentation banners:
 1. ZAMA Creator Flow
 2. OBS Background + Camera
 3. What Is (Web1, Web2, Web3)
